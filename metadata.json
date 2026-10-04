@@ -1,0 +1,6 @@
+{
+  "name": "UIForge Phone",
+  "description": "Complete, modern smartphone operating system experience with real Android APIs, built-in apps, notification shade, live phone, contacts, camera, files, browser, and system diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
